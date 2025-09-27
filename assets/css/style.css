@@ -18690,12 +18690,14 @@ span.select2-selection.select2-selection--single:focus {
   font-size: 20px;
   font-weight: 600;
   margin-top: -0.3em;
-  margin-bottom: 2px;
+  margin-bottom: 5px;
+  
 }
 
 .about-contact-grid .about-contact-details-text {
   color: var(--title-color);
-  margin-bottom: 0;
+  margin-bottom: 7px;
+  margin-left: 10px;
 }
 
 .about-contact-grid .about-contact-details-text a:not(:hover) {
@@ -30988,6 +30990,7 @@ span.select2-selection.select2-selection--single:focus {
 
 .service-inner-img img {
   border-radius: 10px;
+  width: 100%;
 }
 
 .service-img {
@@ -30996,6 +30999,7 @@ span.select2-selection.select2-selection--single:focus {
 
 .service-img img {
   border-radius: 8px;
+  width: 100%;   
 }
 
 .resort-grid-list {
