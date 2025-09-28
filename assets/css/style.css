@@ -19021,6 +19021,7 @@ span.select2-selection.select2-selection--single:focus {
 .img-box1 .img1 {
   position: relative;
   overflow: hidden;
+  
   /* Medium Large devices */
 }
 
@@ -19037,7 +19038,9 @@ span.select2-selection.select2-selection--single:focus {
 }
 
 .img-box1 .img1 img {
-  border-radius: 156px 156px 0px 156px;
+  border-radius: 10px;
+  width: 600px;
+  height: 600px;
 }
 
 .img-box1 .img2 {
