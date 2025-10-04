@@ -30995,7 +30995,11 @@ span.select2-selection.select2-selection--single:focus {
 
 .service-inner-img img {
   border-radius: 10px;
-  width: 100%;
+  width: 1000px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
 }
 
 .service-img {
