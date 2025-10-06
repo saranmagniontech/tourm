@@ -18698,8 +18698,9 @@ span.select2-selection.select2-selection--single:focus {
 
 .about-contact-grid .about-contact-details-text {
   color: var(--title-color);
-  margin-bottom: 7px;
-  margin-left: 10px;
+  margin-bottom: 4px;
+  margin-left: -5px;
+  font-size: 0.9rem;
 }
 
 .about-contact-grid .about-contact-details-text a:not(:hover) {
@@ -36116,3 +36117,6 @@ span.select2-selection.select2-selection--single:focus {
 }
 
 /*# sourceMappingURL=style.css.map */
+
+
+  
